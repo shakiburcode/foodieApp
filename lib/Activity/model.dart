@@ -15,4 +15,5 @@ class RecipeModel
         appurl: recipe["url"]
     );
   }
+  
 }
