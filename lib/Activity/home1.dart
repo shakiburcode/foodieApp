@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:food_recipe_app/Activity/model.dart';
 import 'package:http/http.dart';
 
-
 class Home1 extends StatefulWidget {
   const Home1({super.key});
 
